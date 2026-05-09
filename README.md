@@ -35,7 +35,7 @@ graph TD
     end
     
     Backend -->|Sync| Push[Web Push Notifications]
-    Backend -->|Live| Socket[Socket.io Real-time Ticker]
+    Backend -->|Live| Socket[Socket.io Real-time ]
 ```
 
 ---
