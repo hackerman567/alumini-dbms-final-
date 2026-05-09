@@ -1,4 +1,4 @@
-# ◈ AlumniConnect: The Nexus Registry ◈
+# AlumniConnect: The Nexus Registry 
 
 ![Project Header](https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=github)
 ![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Node%20%7C%20PostgreSQL-blue?style=for-the-badge)
@@ -7,7 +7,7 @@
 
 ---
 
-## ◈ The Vision
+##  The Vision
 In the modern academic ecosystem, the transition from student to professional is often fractured. **AlumniConnect** repairs this link by providing a secure, real-time environment where:
 - **Alumni** can give back through mentorship and job postings.
 - **Students** can navigate their career paths with guidance from those who walked them before.
@@ -15,7 +15,7 @@ In the modern academic ecosystem, the transition from student to professional is
 
 ---
 
-## ◈ System Architecture
+##  System Architecture
 
 ```mermaid
 graph TD
@@ -40,7 +40,7 @@ graph TD
 
 ---
 
-## ◈ Key Modules
+##  Key Modules
 
 | Module | Description |
 | :--- | :--- |
@@ -53,7 +53,7 @@ graph TD
 
 ---
 
-## ◈ Project Structure
+##  Project Structure
 
 ```text
 alumini-dbms/
@@ -77,7 +77,7 @@ alumini-dbms/
 
 ---
 
-## ◈ Operational Guide
+##  Operational Guide
 
 ### 1. Prerequisites
 - **Node.js** v20+
@@ -114,7 +114,7 @@ The project uses a professional **CI/CD pipeline** via GitHub Actions:
 
 ---
 
-## ◈ Future Scope: The Evolution
+##  Future Scope: The Evolution
 
 The Nexus is designed for modular expansion:
 1. **Neural Matching**: Upgrading the mentorship system with AI that matches students to alumni based on career trajectory patterns.
